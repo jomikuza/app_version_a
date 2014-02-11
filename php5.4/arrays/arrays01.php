@@ -1,4 +1,6 @@
 <?php
+echo "referencia oficial: http://www.php.net/manual/es/language.types.intro.php";
+
 echo "Ejemplos de uso:";
 
 echo "Declarar array e inicializarlo";
