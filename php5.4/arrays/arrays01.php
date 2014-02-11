@@ -8,3 +8,6 @@ $frutas = array('pera', 'manzana', 'frutilla', 'durazno', 'sandia');
 echo "Acceder al primer elemento del array";
 echo $frutas[0];
 
+
+echo "Acceder al último elemento del array";
+echo $frutas[count($frutas)-1];
